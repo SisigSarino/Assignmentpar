@@ -15,27 +15,27 @@ I'm Carl Castañas😉, Full-Stack React Web Developer 👨🏻‍💻 from Phil
 - 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
-- 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
+- 👀 See my [Personal Portfolio](https://noah.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"> <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 
 ### GitHub Highlights: :blossom:
-<a href="https://www.linkedin.com/in/carlcastanas/">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+<a href="https://www.linkedin.com/in/noah/">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noah&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
-<a href="https://www.linkedin.com/in/carlcastanas/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<a href="https://www.linkedin.com/in/noah/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=noah&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 -----
-Credits: [carlcastanas](https://github.com/carlcastanas)
+Credits: [noah](https://github.com/noah)
 
 Last Edited on: 12/19/2021
 
-![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{noah}/count.svg)
